@@ -1,0 +1,3 @@
+[submodule "src/minimal_compressor/zdethlossy-comp"]
+	path = src/minimal_compressor/zdethlossy-comp
+	url = https://git.scc.kit.edu/uqehz/zdethlossy-comp
